@@ -19,7 +19,7 @@ This PyTorch model is designed to demonstrate the basics of building and trainin
 
 To use this repository:
 
-1. Follow the provided Google Colab Notebook (`PyTorch_WorkFlow.ipynb`) to understand the workflow and experiment with the linear regression model.
+1. Follow the provided Google Colab Notebook (`1st Model.py`) to understand the workflow and experiment with the linear regression model.
 
 ## Contributing
 
